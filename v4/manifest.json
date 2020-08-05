@@ -12,9 +12,10 @@
     "AssetOrigins": [
       "https://support.office.com",
       "https://docs.microsoft.com",
-      "https://m365x185290.sharepoint.com/"
+      "https://m365x185290.sharepoint.com"
     ],
     "Languages": [
-      "de-DE"
+      "de-DE",
+      "en-US"
     ]
   }
